@@ -4,7 +4,7 @@ import pandas as pd
 print("Hello world")
 f = open("demofile.txt", "w")
 f.write("Now this file has more content!")
-f.write("Testing out file with github, I think i sdfsdsdfneed it to be main!")
+f.write("Testing out file with github, I think i need it to be main!")
 f.close()
 
 f = open("demofile.txt", "r")
